@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jojo.jourdan@hotmail.fr
+	name = Johan JOURDAN
